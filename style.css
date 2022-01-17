@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(68, 68, 165);
+    
+}
+.tudo {
+    color: white;
+}
+.ini h3 {
+    color: yellow;
+}
+.dias h3 {
+    color: black;
+    background-color: #c7c740;
+    border: 2px solid;
+}
+.red {
+    color: red;
+}
